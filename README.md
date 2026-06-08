@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AlesSiilva/AlesSiilva/main/9dcdd0cb-acc7-4c90-af08-152b88db6b3b.png" />
+</p>
+<br>
 # 👋 Olá, eu sou Alessandro Silva!
 
 💻 Desenvolvedor em evolução  
@@ -43,7 +47,3 @@ Gosto de aprender na prática, criando projetos e transformando ideias em soluç
 
 ## ⚡ Curiosidade
 Sempre buscando evoluir 1% todos os dias 🚀
-
-
-## [![Alessandro Silva stats](https://github-readme-stats.vercel.app/api?username=AlesSiilva)](https://github.com/anuraghazra/github-readme-stats)
- 
