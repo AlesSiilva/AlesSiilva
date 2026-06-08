@@ -41,8 +41,8 @@ Gosto de aprender na prática, criando projetos e transformando ideias em soluç
 
 
 ## 📫 Contato
-- LinkedIn: (adicione depois)  
-- Email: (opcional)  
+- LinkedIn: https://www.linkedin.com/in/alessandro-rodrigues-da-silva-224b5b270/ 
+ 
 
 
 ## ⚡ Curiosidade
