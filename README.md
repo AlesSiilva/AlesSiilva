@@ -10,7 +10,7 @@
 
 
 ## 🧠 Sobre mim
-Estou gostando muito dessas tecnologia e atuamente construindo minha jornada como desenvolvedor.  
+Estou gostando muito dessas tecnologias e atuamente construindo minha jornada como desenvolvedor.  
 Gosto de aprender na prática, criando projetos e transformando ideias em soluções reais.
 
 
